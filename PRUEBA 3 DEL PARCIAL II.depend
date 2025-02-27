@@ -1,0 +1,180 @@
+# depslib dependency file v1.0
+1731788998 source:c:\users\mari_\onedrive\escritorio\utn\1er cuatrimestre\programaci”n 1\prueba 3 del parcial ii\prueba 3 del parcial ii\menuprincipal.cpp
+	<iostream>
+
+1731686899 source:c:\users\mari_\onedrive\escritorio\utn\1er cuatrimestre\programaci”n 1\prueba 3 del parcial ii\prueba 3 del parcial ii\menuproductos.cpp
+	<iostream>
+
+1731271595 source:c:\users\mari_\onedrive\escritorio\utn\1er cuatrimestre\programaci”n 1\prueba 3 del parcial ii\prueba 3 del parcial ii\mostrarcontactos.cpp
+	<iostream>
+
+1731373177 source:c:\users\mari_\onedrive\escritorio\utn\1er cuatrimestre\programaci”n 1\prueba 3 del parcial ii\prueba 3 del parcial ii\compraproductos.cpp
+	"Estructuras.h"
+	<iostream>
+
+1731424798 c:\users\mari_\onedrive\escritorio\utn\1er cuatrimestre\programaci”n 1\prueba 3 del parcial ii\prueba 3 del parcial ii\estructuras.h
+	<string>
+
+1731684138 source:c:\users\mari_\onedrive\escritorio\utn\1er cuatrimestre\programaci”n 1\prueba 3 del parcial ii\prueba 3 del parcial ii\pagofinal.cpp
+	<iomanip>
+	<iostream>
+
+1731718793 source:c:\users\mari_\onedrive\escritorio\utn\1er cuatrimestre\programaci”n 1\prueba 3 del parcial ii\prueba 3 del parcial ii\main.cpp
+	<iostream>
+	<iomanip>
+	"pagoFinal.h"
+	"menuPrincipal.h"
+	"mostrarContactos.h"
+	"Estructuras.h"
+	"compraProductos.h"
+	"manejoStock.h"
+
+1731271159 c:\users\mari_\onedrive\escritorio\utn\1er cuatrimestre\programaci”n 1\prueba 3 del parcial ii\prueba 3 del parcial ii\pagofinal.h
+
+1731029236 c:\users\mari_\onedrive\escritorio\utn\1er cuatrimestre\programaci”n 1\prueba 3 del parcial ii\prueba 3 del parcial ii\menuprincipal.h
+
+1731029236 c:\users\mari_\onedrive\escritorio\utn\1er cuatrimestre\programaci”n 1\prueba 3 del parcial ii\prueba 3 del parcial ii\mostrarcontactos.h
+
+1731034194 c:\users\mari_\onedrive\escritorio\utn\1er cuatrimestre\programaci”n 1\prueba 3 del parcial ii\prueba 3 del parcial ii\compraproductos.h
+
+1731788998 source:c:\users\mari_\onedrive\escritorio\utn\1er cuatrimestre\programaci”n 1\prueba 3 del parcial ii\prueba 3 del parcial ii\manejostock.cpp
+	<iostream>
+	"Estructuras.h"
+
+1731355724 c:\users\mari_\onedrive\escritorio\utn\1er cuatrimestre\programaci”n 1\prueba 3 del parcial ii\prueba 3 del parcial ii\manejostock.h
+
+1731373177 source:c:\users\mari_\onedrive\escritorio\utn\1er cuatrimestre\programaci”n 1\parcial ii\parcial ii\compraproductos.cpp
+	"Estructuras.h"
+	<iostream>
+
+1731424798 c:\users\mari_\onedrive\escritorio\utn\1er cuatrimestre\programaci”n 1\parcial ii\parcial ii\estructuras.h
+	<string>
+
+1731718793 source:c:\users\mari_\onedrive\escritorio\utn\1er cuatrimestre\programaci”n 1\parcial ii\parcial ii\main.cpp
+	<iostream>
+	<iomanip>
+	"pagoFinal.h"
+	"menuPrincipal.h"
+	"mostrarContactos.h"
+	"Estructuras.h"
+	"compraProductos.h"
+	"manejoStock.h"
+
+1731271159 c:\users\mari_\onedrive\escritorio\utn\1er cuatrimestre\programaci”n 1\parcial ii\parcial ii\pagofinal.h
+
+1731029236 c:\users\mari_\onedrive\escritorio\utn\1er cuatrimestre\programaci”n 1\parcial ii\parcial ii\menuprincipal.h
+
+1731029236 c:\users\mari_\onedrive\escritorio\utn\1er cuatrimestre\programaci”n 1\parcial ii\parcial ii\mostrarcontactos.h
+
+1731034194 c:\users\mari_\onedrive\escritorio\utn\1er cuatrimestre\programaci”n 1\parcial ii\parcial ii\compraproductos.h
+
+1731355724 c:\users\mari_\onedrive\escritorio\utn\1er cuatrimestre\programaci”n 1\parcial ii\parcial ii\manejostock.h
+
+1731789387 source:c:\users\mari_\onedrive\escritorio\utn\1er cuatrimestre\programaci”n 1\parcial ii\parcial ii\manejostock.cpp
+	<iostream>
+	"Estructuras.h"
+
+1731788998 source:c:\users\mari_\onedrive\escritorio\utn\1er cuatrimestre\programaci”n 1\parcial ii\parcial ii\menuprincipal.cpp
+	<iostream>
+
+1731686899 source:c:\users\mari_\onedrive\escritorio\utn\1er cuatrimestre\programaci”n 1\parcial ii\parcial ii\menuproductos.cpp
+	<iostream>
+
+1731271595 source:c:\users\mari_\onedrive\escritorio\utn\1er cuatrimestre\programaci”n 1\parcial ii\parcial ii\mostrarcontactos.cpp
+	<iostream>
+
+1731684138 source:c:\users\mari_\onedrive\escritorio\utn\1er cuatrimestre\programaci”n 1\parcial ii\parcial ii\pagofinal.cpp
+	<iomanip>
+	<iostream>
+
+1731373177 source:c:\users\mari_\onedrive\escritorio\utn\1er cuatrimestre\programaci”n 1\parcial ii\programa\compraproductos.cpp
+	"Estructuras.h"
+	<iostream>
+
+1731424798 c:\users\mari_\onedrive\escritorio\utn\1er cuatrimestre\programaci”n 1\parcial ii\programa\estructuras.h
+	<string>
+
+1731789387 source:c:\users\mari_\onedrive\escritorio\utn\1er cuatrimestre\programaci”n 1\parcial ii\programa\manejostock.cpp
+	<iostream>
+	"Estructuras.h"
+
+1731788998 source:c:\users\mari_\onedrive\escritorio\utn\1er cuatrimestre\programaci”n 1\parcial ii\programa\menuprincipal.cpp
+	<iostream>
+
+1731686899 source:c:\users\mari_\onedrive\escritorio\utn\1er cuatrimestre\programaci”n 1\parcial ii\programa\menuproductos.cpp
+	<iostream>
+
+1732056620 source:c:\users\mari_\onedrive\escritorio\utn\1er cuatrimestre\programaci”n 1\parcial ii\programa\mostrarcontactos.cpp
+	<iostream>
+
+1731684138 source:c:\users\mari_\onedrive\escritorio\utn\1er cuatrimestre\programaci”n 1\parcial ii\programa\pagofinal.cpp
+	<iomanip>
+	<iostream>
+
+1734218176 source:c:\users\mari_\onedrive\escritorio\utn\1er cuatrimestre\programaci”n 1\parcial ii\programa\main.cpp
+	<iostream>
+	<iomanip>
+	"pagoFinal.h"
+	"menuPrincipal.h"
+	"mostrarContactos.h"
+	"Estructuras.h"
+	"compraProductos.h"
+	"manejoStock.h"
+
+1731271159 c:\users\mari_\onedrive\escritorio\utn\1er cuatrimestre\programaci”n 1\parcial ii\programa\pagofinal.h
+
+1731029236 c:\users\mari_\onedrive\escritorio\utn\1er cuatrimestre\programaci”n 1\parcial ii\programa\menuprincipal.h
+
+1732056620 c:\users\mari_\onedrive\escritorio\utn\1er cuatrimestre\programaci”n 1\parcial ii\programa\mostrarcontactos.h
+
+1731034194 c:\users\mari_\onedrive\escritorio\utn\1er cuatrimestre\programaci”n 1\parcial ii\programa\compraproductos.h
+
+1731355724 c:\users\mari_\onedrive\escritorio\utn\1er cuatrimestre\programaci”n 1\parcial ii\programa\manejostock.h
+
+1731373177 source:c:\users\mari_\onedrive\documentos\nueva carpeta (2)\utn\1er cuatrimestre\programaci”n 1\parcial ii\programa\compraproductos.cpp
+	"Estructuras.h"
+	<iostream>
+
+1731424798 c:\users\mari_\onedrive\documentos\nueva carpeta (2)\utn\1er cuatrimestre\programaci”n 1\parcial ii\programa\estructuras.h
+	<string>
+
+1731885422 source:c:\users\mari_\onedrive\documentos\nueva carpeta (2)\utn\1er cuatrimestre\programaci”n 1\parcial ii\programa\main.cpp
+	<iostream>
+	<iomanip>
+	"pagoFinal.h"
+	"menuPrincipal.h"
+	"mostrarContactos.h"
+	"Estructuras.h"
+	"compraProductos.h"
+	"manejoStock.h"
+
+1731271159 c:\users\mari_\onedrive\documentos\nueva carpeta (2)\utn\1er cuatrimestre\programaci”n 1\parcial ii\programa\pagofinal.h
+
+1731029236 c:\users\mari_\onedrive\documentos\nueva carpeta (2)\utn\1er cuatrimestre\programaci”n 1\parcial ii\programa\menuprincipal.h
+
+1732056620 c:\users\mari_\onedrive\documentos\nueva carpeta (2)\utn\1er cuatrimestre\programaci”n 1\parcial ii\programa\mostrarcontactos.h
+
+1731034194 c:\users\mari_\onedrive\documentos\nueva carpeta (2)\utn\1er cuatrimestre\programaci”n 1\parcial ii\programa\compraproductos.h
+
+1731355724 c:\users\mari_\onedrive\documentos\nueva carpeta (2)\utn\1er cuatrimestre\programaci”n 1\parcial ii\programa\manejostock.h
+
+1731789387 source:c:\users\mari_\onedrive\documentos\nueva carpeta (2)\utn\1er cuatrimestre\programaci”n 1\parcial ii\programa\manejostock.cpp
+	<iostream>
+	"Estructuras.h"
+
+1731788998 source:c:\users\mari_\onedrive\documentos\nueva carpeta (2)\utn\1er cuatrimestre\programaci”n 1\parcial ii\programa\menuprincipal.cpp
+	<iostream>
+
+1731686899 source:c:\users\mari_\onedrive\documentos\nueva carpeta (2)\utn\1er cuatrimestre\programaci”n 1\parcial ii\programa\menuproductos.cpp
+	<iostream>
+
+1732056620 source:c:\users\mari_\onedrive\documentos\nueva carpeta (2)\utn\1er cuatrimestre\programaci”n 1\parcial ii\programa\mostrarcontactos.cpp
+	<iostream>
+
+1731684138 source:c:\users\mari_\onedrive\documentos\nueva carpeta (2)\utn\1er cuatrimestre\programaci”n 1\parcial ii\programa\pagofinal.cpp
+	<iomanip>
+	<iostream>
+
+1734223096 source:c:\users\mari_\onedrive\escritorio\utn\1er cuatrimestre\programaci”n 1\parcial ii\programa\promedioedad.cpp
+	<iostream>
+
