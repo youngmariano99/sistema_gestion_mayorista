@@ -23,6 +23,7 @@ git clone https://github.com/tuUsuario/nombreDelRepositorio.git
 
 2 Abre el proyecto en Code::Blocks
 - Ejecuta Code::Blocks y abre el archivo principal del proyecto (main.cpp).
+
 3 Compila y ejecuta el programa
 - Compila el código usando GNU GCC Compiler dentro de Code::Blocks.
 - Ejecuta el programa desde la consola.
