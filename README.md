@@ -84,11 +84,6 @@ git clone https://github.com/tuUsuario/nombreDelRepositorio.git
 ├── 📁 bin
 ```
 
-👥 Autores
-Proyecto desarrollado por:
-- Veyries Benjamín
-- Quintanilla Eber
-- Young Mariano
 
 📜 Licencia
 Este proyecto es de uso educativo. Puedes usarlo y modificarlo con fines de aprendizaje. 🚀
