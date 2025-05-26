@@ -95,17 +95,6 @@ Este proyecto es de uso educativo. Puedes usarlo y modificarlo con fines de apre
 Si necesitas ajustes en el README, dime cómo quieres personalizarlo y lo adaptamos. ¡Éxito con tu repositorio! 😃
 
 
-📦 nombreDelRepositorio
- ├── src/                # Código fuente principal
- │   ├── main.cpp        # Archivo principal del programa
- │   ├── funciones.cpp   # Funciones de gestión de stock y compras
- │   ├── menus.cpp       # Menús de navegación
- ├── assets/             # Recursos opcionales (ejemplo: documentación)
- ├── README.md           # Documentación del proyecto
- ├── LICENSE             # Licencia de uso
-
-
-
 
 
 
